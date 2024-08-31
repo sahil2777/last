@@ -1,0 +1,21 @@
+pwd =>> "PWD" stands for "Print Working Directory
+
+ls =>> Lists files and directories in the current directory.
+
+ls -l =>>  Lists files and directories in long format, providing detailed information such as permissions, owner, size, and modification date.
+
+
+
+clear =>> clear is for the clear all command 
+
+cd =>> Change Directory  and  after the change the Directory then enter (cd - ) 
+
+touch Mytextfile.txt =>> it make empty text file (touch command for the make new empty file) 
+
+echo "this is dymmy " > Mytextfile.txt  =>> that command print some text in to your file 
+
+echo " file " >> Mytextfile.txt      =>> that command upend the text into existing file (output is this is dummy file)
+
+cat Mytextfile.txt => that is for open  and print all content inside that file 
+
+rm Mytextfile.txt  => that is for the remove or deleted the file 
